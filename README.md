@@ -2,7 +2,7 @@
 
 This project demonstrates configuring HC-05 bluetooth module with AT commands. <br>
 
-## Rerquirments
+## Requirements
 
 1. Arduino Nano
 2. HC-05 bluetooth module
