@@ -75,5 +75,5 @@ this puts the module into AT command mode.
 	</tr>
 <table>
 
-For more AT commands refer this 
+For more AT commands refer this [`pdf`](/HC-05_ATCommandSet.pdf) or this
 <a href="https://www.itead.cc/wiki/Serial_Port_Bluetooth_Module_(Master/Slave)_:_HC-05"> link </a>.
