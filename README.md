@@ -65,7 +65,13 @@ this puts the module into AT command mode.
 		<td> AT+UART=param1,param2,param3 </td>
 		<td> OK </td>
 		<td> Set baud rate to param1, stop bit to param2 and parity to param3 <br>
-			Ex: AT+UART=57600, 1,2</td>
+			Ex: AT+UART=115200, 0,0</td>
+	</tr>
+	<tr>
+		<td>AT+ROLE=param1</td>
+		<td> OK </td>
+		<td> Set Role to param1 <br> 0 - Slave, 1 - Master, 2 - Slave-Loop <br> 
+		Ex: AT+ROLE=0 </td>
 	</tr>
 <table>
 
